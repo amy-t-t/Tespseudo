@@ -1,2 +1,2 @@
-# Testpseudo
-turning java code into pseudocode :)
+# Tespseudo
+turning Java code into pseudocode :)
